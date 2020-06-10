@@ -1,6 +1,6 @@
 
 #include <iostream>
-
+\\FindRoots
 using namespace std;
 
 
@@ -11,7 +11,7 @@ bool RepetirPrograma() {
 
 		char restablecerChar;
 
-		cout << "¿Quieres hacerlo otra vez? (S/N)" << endl;
+		cout << "Â¿Quieres hacerlo otra vez? (S/N)" << endl;
 		cin >> restablecerChar;
 
 		if (restablecerChar == 'S' || restablecerChar == 's') {

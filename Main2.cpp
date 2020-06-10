@@ -2,7 +2,7 @@
 #include <fstream>
 #include <string>
 using namespace std;
-
+//listdir
 string init(string a) {
     int sum = 0;
     string line;
